@@ -1,4 +1,4 @@
-# 'Detection of Automatic Girl Child Trafficking'
+
 # Published Research: Detection of Automatic Girl Child Trafficking  
 
 We are thrilled to announce that our research paper, **"Detection of Automatic Girl Child Trafficking"**, has been successfully published in the *International Journal of Computing and Digital Systems (IJCDS)*.  
