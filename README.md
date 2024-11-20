@@ -1,4 +1,4 @@
-# A Computational Approach for Automatic Girl Child Trafficking Detection
+# 'Detection of Automatic Girl Child Trafficking'
 
 Girl child trafficking has become a matter of serious concern for human society. There are different manual approaches
 to stop and prevent it. In this work, we proposed a two-stage computational model for automatic girl child trafficking by analyzing
