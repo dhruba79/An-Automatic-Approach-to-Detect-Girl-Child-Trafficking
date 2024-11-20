@@ -8,3 +8,15 @@ first stage, ResNet 50 deep neural network was used to determine the three featu
 Vector Machine (SVM) was used to determine whether there is a possibility of girl child trafficking or not. It has been observed that
 the proposed model can detect girl child trafficking with an accuracy of 93.13%. The high accuracy observed in the study indicates the
 candidature of the proposed model for real-time child trafficking.
+
+
+
+# Research Paper Published
+
+We are delighted to share that our research paper titled **"Detection of Automatic Girl Child Trafficking"** has been successfully published online in the *International Journal of Computing and Digital Systems (IJCDS)*.
+
+- **DOI**: [http://dx.doi.org/10.12785/ijcds/160199](http://dx.doi.org/10.12785/ijcds/160199)
+- **Journal**: International Journal of Computing and Digital Systems (IJCDS)
+- **Paper ID**: 1570952791
+
+You can access the paper directly using the link above. Thank you for your interest and support!
